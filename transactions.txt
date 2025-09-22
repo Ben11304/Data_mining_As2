@@ -1,39 +1,20 @@
-bread
-butter
-cheese
-eggs
-jam
-milk
-yogurt
-bread cheese
-butter cheese
-butter jam
-bread eggs milk
-bread butter cheese
-butter
-cheese eggs milk
-eggs cheese
-milk bread
-milk cheese
-milk eggs
-bread cheese milk
-bread eggs milk
-bread cheese
-butter cheese
-butter jam
-bread
-butter
-cheese
-eggs
-jam
-milk
-yogurt
-eggs cheese
-milk bread
-milk cheese
-milk eggs
-bread cheese milk
-bread eggs milk
-bread butter cheese
-butter
-cheese eggs milk
+1 2 3 4
+1 4 5 6
+2 3 4
+1 2 3 4
+2 3 6
+1 2 4 6
+4 5
+1 2 3 4 5
+3 4 5
+1 2 3 6
+1 2 3 5
+1 4 5
+2 3 4 6
+1 2 3 4
+2 3 4
+1 2 4 5 6
+3 4 5
+1 2 3 4 5 6
+3 4 5 6
+1 2 3 5
