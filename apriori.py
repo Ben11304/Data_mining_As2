@@ -70,6 +70,6 @@ def main():
     else:
         for itemset in sorted(all_frequent.keys(), key=lambda x: (len(x), sorted(x))):
             print(' '.join(sorted(itemset)))
-
+        # print(f"Total number of frequent itemsets: {len(all_frequent)}")
 if __name__ == "__main__":
     main()
